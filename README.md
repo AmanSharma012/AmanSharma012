@@ -1,5 +1,7 @@
 # 💫 Hi 👋, I'm Aman Kumar Sharma
 **B.Tech CSE (AI/ML) Student | Aspiring Software Engineer | Learning AI/ML & DSA**
+Engineering
+📊 Current CGPA: 9.95 / 10
 
 I'm a second-year Computer Science student interested in software development, AI/ML, and building practical projects. I'm constantly learning and improving my problem-solving skills through projects and DSA.
 
